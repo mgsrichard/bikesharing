@@ -1,3 +1,7 @@
+#Ignore big data files
+201908-citibike-tripdata.csv
+bikeshare_data_clean.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
