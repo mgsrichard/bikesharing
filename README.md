@@ -29,7 +29,7 @@ In the graph below, you can see that men make up a majority of riders. Women are
 
 ![Trips by Gender](https://github.com/mgsrichard/bikesharing/blob/main/Resources/3%20Trips%20by%20Gender.png)
 
-### Subscribers and Customers Have Similar Trips
+### Subscribers and Customers Have Similar Length Trips
 
 Below you can see that subscribers and customers (non-subscribers) have very similar trip length. Being a subscriber or not doesn't seem to impact the duration of the trips.
 
@@ -47,7 +47,7 @@ You can see below that women and men are both commuting with the bikes. Another 
 
 ![Weekdays Heatmap by Hour and Gender](https://github.com/mgsrichard/bikesharing/blob/main/Resources/6%20Weekdays%20Heatmap%20by%20hour%20and%20gender.png)
 
-### Daily Use by User Type and Gender
+### Daily Use by SubScribers and Customers
 
 In this chart, it's easier to see the larger proportion of women riders on the weekends in both groups. Among customers, women make up a larger share of the riders on all days, around 50%. There is no obvious rush hour in the data either for customers/non-subscribers.  The larger share of women every day and the lack of rush hour are both consistent with customers being tourists or families and couples on outings. 
 
@@ -65,7 +65,7 @@ In the graph below you can see that generally, riders are mostly 50 and younger.
 
 ![How old are riders](https://github.com/mgsrichard/bikesharing/blob/main/Resources/9%20How%20old%20are%20riders.png)
 
-### Are Subscribers and Customers the Same Age?
+### Are Customers Younger than Subscribers?
 
 The chart below demonstrates that subscribers and non-subscribers have the same basic age distribution. 
 
