@@ -49,7 +49,7 @@ You can see below that women and men are both commuting with the bikes. Another 
 
 ### Daily Use by User Type and Gender
 
-In this chart, it's easier to see the larger proportion of riders on the weekends. When you split that data out by subscriber and customer, you can also see that among customers, women make up a larger share of the riders, around 50%. This is consistent with customers being tourists or families and couples on outings. 
+In this chart, it's easier to see the larger proportion of women riders on the weekends in both groups. Among customers, women make up a larger share of the riders on all days, around 50%. There is no obvious rush hour in the data either for customers/non-subscribers.  The larger share of women every day and the lack of rush hour are both consistent with customers being tourists or families and couples on outings. 
 
 ![Daily Use by Type and Gender](https://github.com/mgsrichard/bikesharing/blob/main/Resources/7%20Daily%20use%20by%20type%20and%20gender.png)
 
