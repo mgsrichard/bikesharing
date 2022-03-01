@@ -29,7 +29,7 @@ In the graph below, you can see that men make up a majority of riders. Women are
 
 ![Trips by Gender](https://github.com/mgsrichard/bikesharing/blob/main/Resources/3%20Trips%20by%20Gender.png)
 
-### Subscribers and Customers Have Similar Length Trips
+### Do customers take longer trips?
 
 Below you can see that subscribers and customers (non-subscribers) have very similar trip length. Being a subscriber or not doesn't seem to impact the duration of the trips.
 
