@@ -7,9 +7,7 @@ Our theoretical client wants to explore the idea of starting a bike sharing busi
 ## Results of Analysis
 Below you can view the slides from the Tableau Story I created, with some analysis for each slide. This readme file could serve as a good script for presenting the story to the client.
 
-It's natural that some bikes would get a lot of use and some not as much. We can see here that not too many bikes are on the extremes. That's good news for maintenance, but also means that where they are located may need to be carefully considered. trips, and the amount of use the bikes get.
- If all the bikes end the day in a different place than where people want them in the morning, moving a bunch around every night could be a logistical problem. However, the high volume of users who are 
- 
+
  ### Most Users are Subscribers
  
 In the pie chart below, you can see that over 75% of users are subscribers. The large tourist population in NYC seems not to contribute an outsized share of customers. Locals must account for most of the subscribers, and since Des Moines likely has way fewer tourists than NYC, this is good news. Des Moines Citi Bike can focus its advertising on locals.
