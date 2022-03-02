@@ -10,7 +10,7 @@ Below you can view the slides from the Tableau Story I created, with some analys
 
  ### Most Users are Subscribers
  
-In the pie chart below, you can see that over 75% of users are subscribers. The large tourist population in NYC seems not to contribute an outsized share of customers. Locals must account for most of the subscribers, and since Des Moines likely has way fewer tourists than NYC, this is good news. Des Moines Citi Bike can focus its advertising on locals.
+In the pie chart below, you can see that over 75% of users are subscribers. The large tourist population in NYC seems not to contribute an outsized share of customers. The subscribers almost certainly are locals, and since Des Moines likely has way fewer tourists than NYC, this is good news. Des Moines Citi Bike can focus its business and outreach on locals.
 
 ![Most Users are Subscribers](https://github.com/mgsrichard/bikesharing/blob/main/Resources/1%20Customer%20Type.png)
 
@@ -18,7 +18,7 @@ In the pie chart below, you can see that over 75% of users are subscribers. The 
 
 ### Trips are Pretty Short
 
-Trips are usually less than an hour long, and a large majority of them are less than 30 minutes long. These bikes get people where they want to go pretty quickly, which is good wherever you are renting them, because shorter trips means more opportunities for rentals and more income.
+Trips are usually less than an hour long, and a large majority of them are less than 30 minutes long. These bikes get people where they want to go pretty quickly. Fast trips means potentially more rides per bike per day, more business, and more income.
 
 
 ![Trips are short](https://github.com/mgsrichard/bikesharing/blob/main/Resources/2%20Trips%20are%20Short.png)
@@ -43,19 +43,19 @@ A single glance at this heatmap shows you when rush hour is. The implication is 
 
 ### Women and Men both commute
 
-You can see below that women and men are both commuting with the bikes. Another thing you can see in the chart is that on the weekends, women are a larger percentage of riders, up to 50% during some parts of the day. Families and couples are probably using the bikes for fun outings. Commuting and family outings are not uniquely New York, so there's no reason people wouldn't use the bikes for similar trips in Des Moines.
+You can see below that women and men are both commuting by bike. Another thing you can see in the chart is that on the weekends, women are a larger percentage of riders, up to 50% during some parts of the day. Families and couples are probably using the bikes for fun outings. Commuting and family outings are not uniquely New York, so there's no reason people wouldn't use the bikes for similar trips in Des Moines.
 
 ![Weekdays Heatmap by Hour and Gender](https://github.com/mgsrichard/bikesharing/blob/main/Resources/6%20Weekdays%20Heatmap%20by%20hour%20and%20gender.png)
 
 ### Daily Use by SubScribers and Customers
 
-In this chart, it's easier to see the larger proportion of women riders on the weekends in both groups. Among customers, women make up a larger share of the riders on all days, around 50%. There is no obvious rush hour in the data either for customers/non-subscribers.  The larger share of women every day and the lack of rush hour are both consistent with customers being tourists or families and couples on outings. 
+In this chart, it's easier to see the larger proportion of women riders on the weekends in both groups. Among customers, women make up a larger share of the riders than among subscribers on all days, around 50%. There is no obvious rush hour in the data either for customers/non-subscribers.  The larger share of women every day and the lack of rush hour are both consistent with customers being tourists or families and couples on outings. 
 
 ![Daily Use by Type and Gender](https://github.com/mgsrichard/bikesharing/blob/main/Resources/7%20Daily%20use%20by%20type%20and%20gender.png)
 
 ### Some Bikes are Used Alot
 
-Here you can see that some bikes are used more than others. You can move the cursor under where it says "Count of bikeshare" to see how many bikes are used a lot and how many are used only a little. This sort of information would be useful in identifying which bikes are more likely to need maintenance. In general, though, it seems like bike usage is generally fairly spread out among the bikes, and it's not the case that a minority of bikes are used for a majority of the rides. Another takeaway here is that NYC seems to have the bike distribution well balanced so that the use of the bikes is well balanced, and that ought to be a consideration in the selection of locations and numbers of bikes deployed at those locations.
+Here you can see that some bikes are used more than others. You can move the cursor under where it says "Count of bikeshare" to see how many bikes are used a lot and how many are used only a little. This sort of information would be useful in identifying which bikes are more likely to need maintenance. In general, though, it seems like bike usage is generally fairly spread out among the bikes, and it's not the case that a minority of bikes are used for a majority of the rides. Another takeaway here is that NYC seems to have the bike distribution well balanced so that the use of the bikes is well balanced, and that ought to be a consideration in the selection of locations and numbers of bikes deployed at locations in Des Moines.
 
 ![Some bikes are used alot](https://github.com/mgsrichard/bikesharing/blob/main/Resources/8%20Some%20bikes%20are%20used%20a%20lot.png)
 
@@ -74,4 +74,4 @@ The chart below demonstrates that subscribers and non-subscribers have the same 
 
 ## Summary
 
-Get ready, Des Moines!  There's nothing in the NYC data that indicates that the success of Citi Bike there is a purely NY thing.  Real people commute with the bikes, and use them for outings. People of all ages and genders use the bikes. On the weekends they are a fun addition to a day trip.  These things can all work in Des Moines. The research indicates that Des Moines Citi Bike should choose wisely where to place bike stations, near where commuters and tourists are likely to use them, and study their use pattern or predicted use pattern to put the right number of bikes in the right places. Advertising campaigns can target commuters, men, women, and tourists. Another visualization that could be helpful for future analysis would be to analyze where bikes stop and start the day, to figure out if the matrix of bike locations will balance itself or if the company would need to relocate bikes during times of low usage back to high usage areas. Another good visulization would be to figure out the most popular locations and what they are possibly being used for, to help Des Moines choose some initial bike locations with a high probabillity of success to help the business have a strong launch.
+Get ready, Des Moines!  There's nothing in the NYC data that indicates that the success of Citi Bike there is a purely NY thing.  Real people commute by bike, and use them for outings. People of all ages and genders use the bikes. On the weekends they are a fun addition to a day trip.  These things can all work in Des Moines. The research indicates that Des Moines Citi Bike should choose wisely where to place bike stations, near where commuters and tourists are likely to use them, and study their use pattern or predicted use pattern to put the right number of bikes in the right places. Advertising campaigns can target commuters, men, women, and tourists. A visualization that could be helpful for future analysis would be to analyze where bikes stop and start the day, to figure out if the matrix of bike locations will balance itself or if the company would need to relocate bikes during times of low usage back to high usage areas. Another good visulization would be to figure out the most popular locations and what they are possibly being used for, to help Des Moines choose some initial bike locations with a high probabillity of success to help the business have a strong launch.
