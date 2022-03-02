@@ -1,2 +1,4 @@
+#added to .gitignore so this isn't used anymore
+
 201908-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
 bikeshare_data_clean.csv filter=lfs diff=lfs merge=lfs -text
