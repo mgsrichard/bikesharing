@@ -18,7 +18,7 @@ In the pie chart below, you can see that over 75% of users are subscribers. The 
 
 ### Trips are Pretty Short
 
-Trips are usually less than an hour long, and a large majority of them are less than 30 minutes long. These bikes get people where they want to go pretty quickly. Fast trips means potentially more rides per bike per day, more business, and more income.
+Trips are usually less than an hour long, and a large majority of them are around 30 minutes or less. These bikes get people where they want to go pretty quickly. Fast trips means potentially more rides per bike per day, more business, and more income.
 
 
 ![Trips are short](https://github.com/mgsrichard/bikesharing/blob/main/Resources/2%20Trips%20are%20Short.png)
@@ -49,7 +49,7 @@ You can see below that women and men are both commuting by bike. Another thing y
 
 ### Daily Use by Subscribers and Customers
 
-In this chart, it's easier to see the larger proportion of women riders on the weekends in both groups. Among customers, women make up a larger share of the riders than among subscribers on all days, around 50%. There is no obvious rush hour in the data either for customers/non-subscribers.  The larger share of women every day and the lack of rush hour are both consistent with customers being tourists or families and couples on outings. 
+In this chart, it's easier to see the larger proportion of women riders on the weekends in both groups. Among customers, women make up a larger share of the riders than among subscribers on all days, around 50%. On weekends, there is no obvious rush hour in the data for customers or non-subscribers.  The larger share of women every day and the lack of rush hour are both consistent with customers being tourists or families and couples on outings. 
 
 ![Daily Use by Type and Gender](https://github.com/mgsrichard/bikesharing/blob/main/Resources/7%20Daily%20use%20by%20type%20and%20gender.png)
 
