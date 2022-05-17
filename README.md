@@ -2,10 +2,10 @@
 Bikesharing with Tableau
 
 ## Overview
-We want to explore the idea of starting a bike sharing business like NYC's Citi Bike in Des Moines, IA. To that end, we have downloaded a data file from Citi Bike with details on all bike trips taken during the month of August, 2019.  We will look at the data and see whether the business model could be tenable for Des Moines. Below are pictures of the slides from the Tableau story I developed, NYC Results, in the Tableau file BikeShare Challenge. In the free version of Tableau, files must be saved on their public website, so this project can be viewed at [NYC Results]( https://public.tableau.com/app/profile/martha.richardson/viz/BikeshareChallenge_16454614958360/NYCResults?publish=yes). Click on the arrow at the top to advance through the slides. I have examined who rides the bikes, by gender and subscriber/non-subscriber, trip length, age of rider, time of day of trips, and frequency of trips per individual bike.
+To explore the idea of starting a bike sharing business like NYC's Citi Bike in Des Moines, IA, I downloaded a data file from Citi Bike with details on all bike trips taken during the month of August, 2019.  I have looked at the data to see whether the business model could be tenable for Des Moines. Below are pictures of the slides from the Tableau story I developed, NYC Results, in the Tableau file BikeShare Challenge. In the free version of Tableau, files must be saved on their public website, so this project can be viewed at [NYC Results]( https://public.tableau.com/app/profile/martha.richardson/viz/BikeshareChallenge_16454614958360/NYCResults?publish=yes). Click on the arrow at the top to advance through the slides. I have examined who rides the bikes, by gender and subscriber/non-subscriber, trip length, age of rider, time of day of trips, and frequency of trips per individual bike.
 
 ## Results of Analysis
-Below you can view the slides from the Tableau Story I created, with some analysis for each slide. This readme file could serve as a good script for presenting the story to the client.
+Below you can view the slides from the Tableau Story I created, with some analysis for each slide. This readme file could serve as a good script for presenting the story.
 
 
  ### Most Users are Subscribers
