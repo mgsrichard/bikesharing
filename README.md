@@ -2,10 +2,10 @@
 Bikesharing with Tableau
 
 ## Overview
-Our theoretical client wants to explore the idea of starting a bike sharing business like NYC's Citi Bike in her city of Des Moines, IA. To that end, we have downloaded a data file from Citi Bike with details on all bike trips taken during the month of August, 2019.  We want to look at the data and see whether the business model could be tenable for Des Moines. Below are pictures of the slides from the Tableau story I developed, NYC Results, in the Tableau file BikeShare Challenge. In the free version of Tableau, files must be saved on their public website, so this project can be viewed at [NYC Results]( https://public.tableau.com/app/profile/martha.richardson/viz/BikeshareChallenge_16454614958360/NYCResults?publish=yes). Click on the arrow at the top to advance through the slides. I have examined who rides the bikes, by gender and subscriber/non-subscriber, trip length, age of rider, time of day of trips, and frequency of trips per individual bike.
+To explore the idea of starting a bike sharing business like NYC's Citi Bike in Des Moines, Iowa, I downloaded a data file from Citi Bike with details on all bike trips taken during the month of August, 2019.  I have looked at the data to see whether the business model could be tenable for Des Moines. Below are pictures of the slides from the Tableau story I developed, NYC Results, in the Tableau file BikeShare Challenge. In the free version of Tableau, files must be saved on their public website, so this project can be viewed at [NYC Results]( https://public.tableau.com/app/profile/martha.richardson/viz/BikeshareChallenge_16454614958360/NYCResults?publish=yes). Click on the arrow at the top to advance through the slides. I have examined who rides the bikes, by gender and subscriber/non-subscriber, trip length, age of rider, time of day of trips, and frequency of trips per individual bike.
 
 ## Results of Analysis
-Below you can view the slides from the Tableau Story I created, with some analysis for each slide. This readme file could serve as a good script for presenting the story to the client.
+Below you can view the slides from the Tableau Story I created, with some analysis for each slide. This readme file could serve as a good script for presenting the story.
 
 
  ### Most Users are Subscribers
@@ -75,3 +75,7 @@ The chart below demonstrates that subscribers and non-subscribers have the same 
 ## Summary
 
 Get ready, Des Moines!  There's nothing in the NYC data that indicates that the success of Citi Bike there is a purely NY thing.  Local people commute by bike, and use them for outings. People of all ages and genders use the bikes. On the weekends they are a fun addition to a day trip.  These things can all work in Des Moines. The research indicates that Des Moines Citi Bike should choose wisely where to place bike stations, near where commuters and tourists are likely to use them, and study their use pattern or predicted use pattern to put the right number of bikes in the right places. Advertising campaigns can target commuters, men, women, and tourists. A visualization that could be helpful for future analysis would be to analyze where bikes stop and start the day, to figure out if the matrix of bike locations will balance itself or if the company would need to relocate bikes during times of low usage back to popular areas. Another good visulization would be to figure out the most popular locations and what they are possibly being used for, to help Des Moines choose some initial bike locations with a high probabillity of success to help the business have a strong launch.
+
+### Contact information <br>
+ Martha Richardson<br>
+ mgsrichard@yahoo.com
