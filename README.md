@@ -76,6 +76,6 @@ The chart below demonstrates that subscribers and non-subscribers have the same 
 
 Get ready, Des Moines!  There's nothing in the NYC data that indicates that the success of Citi Bike there is a purely NY thing.  Local people commute by bike, and use them for outings. People of all ages and genders use the bikes. On the weekends they are a fun addition to a day trip.  These things can all work in Des Moines. The research indicates that Des Moines Citi Bike should choose wisely where to place bike stations, near where commuters and tourists are likely to use them, and study their use pattern or predicted use pattern to put the right number of bikes in the right places. Advertising campaigns can target commuters, men, women, and tourists. A visualization that could be helpful for future analysis would be to analyze where bikes stop and start the day, to figure out if the matrix of bike locations will balance itself or if the company would need to relocate bikes during times of low usage back to popular areas. Another good visulization would be to figure out the most popular locations and what they are possibly being used for, to help Des Moines choose some initial bike locations with a high probabillity of success to help the business have a strong launch.
 
-<strong>Contact Info<strong>
+### Contact information
  Martha Richardson
  mgsrichard@yahoo.com
